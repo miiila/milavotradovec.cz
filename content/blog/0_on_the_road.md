@@ -1,6 +1,7 @@
 +++
-title = "On the road again"
+title = "#0 On the road again"
 slug = "on-the-road-again"
+date = 2018-03-11
 +++
 
 Od března roku 2018 bydlíme v Londýně. Jak se nám to přihodilo, co bylo potřeba zařídit, jak se v Londýně hledá práce a bydlení a jestli tu vážně pořád prší bude několik následujících textů.
@@ -16,4 +17,3 @@ Dublinský výlet ale potvrdil, že bych o nějakou zahraniční zkušenost vá�
 Už někdy v průběhu námluv s Intercomem jsem napsal jedné své známé, jestli nemá tipy na práci v Londýně. Dřív pracovala ve firmě Snyk (odtamtud jsme se také znali), takže mě spojila s Garethem (architect ve Snyku), který mi navrhl buď pozici přímo u nich nebo další dva kontakty. Snyk byl u mě v podobné škatulce jako Intercom - znal jsem jejich produkt, věděl jsem, že jsou hodně schopní a že dělají něco smysluplného. Navíc jejich domácí úkol vypadal zajímavě, tak jsem to vyzkoušel, zavolal si s Garethem a dalšíma lidma, až jsem nakonec v prosinci seděl v letadle do Londýna na setkání s Guyem, CEO. Přihodil jsem si k tomu ještě jeden onsite pohovor, ať neletím zbytečně. Guy na mě udělal opravdu dojem, je to velký pohodář a sympaťák. Chtěl si ještě zavolat s Jakubem (CEO Apiary), aby se na mě přeptal (což mělo háček v tom, že jsem to nejdřív musel Jakubovi říct). Tam jsem ale už tušil, že to asi dopadne dobře. A tak jsem symbolicky na Štědrý den ráno našel v mailu návrh smlouvy.
 
 Domluvili jsme se na nástupu prvního března, takže jsem měl dva měsíce na to všechno předat v Apiary, vyřešit bydlení, vymyslet stěhování, rozprodat nahromaděné pražské krámy a rozloučit se obrovským množstvím kamarádů. Všechno dobře dopadlo, stěhováci už budou brzo na cestě a máme krásné bydlení. O tom, jak jsme ho hledali bude příští text.
-

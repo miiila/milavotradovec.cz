@@ -1,0 +1,38 @@
++++
+title = "#1 Under the bridge"
+slug = "under-the-bridge"
+date = 2018-07-01
++++
+
+K Vánocům jsem si tedy nadělil novou práci v Londýně a ačkoli tím stres z pohovorů odpadl, vynořila se spousta věcí, které bylo potřeba zařídit. Nejdůležitější se jevilo bydlení, takže jsme mu věnovali nejvíc času. Když jsem byl v lednu v Tel Avivu na celofiremním setkání mého nového zaměstnavatele, seznámil jsem se se všemi kolegy, a ti londýnští mě hned bohatě zásobili radami. Jako třeba kde je to nebezpečný (všude), kde je to nejlepší (tam, kde bydlí mluvčí), jak se nejlíp jezdí do práce (na kole) apod. Většině z nich jsem moc nerozuměl, protože jsem neměl nejmenší představu, jak se různé Londýnské části liší. Asi jako kdybyste třikrát jeli do Prahy, prošli si Václavák, Hrad, Malou Stranu a Holešovice, a potom by se vás ptali, jestli chcete raději bydlet na Proseku, v Karlíně nebo ve Střešovicích (které nebýt Tatranu a vojenské nemocnice neznají ani Pražáci). Aspoň mi dali tipy na servery, nastínili cenové rozpětí a přihodili pár detailů o smlouvách.
+
+Ze všech těhle nesouvislých střípků postupně vznikla tato kritéria (seřazená):
+- dvě místnosti (říká se tomu one bedroom, menší je studio)
+- nájem do £1500
+- cesta do práce do 30 minut
+- park v blízkosti
+- rozumné spojení na dvě ze tří letišť (Stansted, Luton, Gatwick)
+
+Vypadá to poměrně odvážně, ale prvotní rychlé proskenování nabídky ukázalo, že by to mělo jít. A protože únorový výlet do Londýna by stál skoro stejně jako hotel/AirBnB na první dny/týdny pobytu, rozhodli jsme se na jeden víkend vyrazit na prohlídky přímo na místo.
+
+## Kde hledat
+Anglickou verzí naší [bezrealitky.cz](https://www.bezrealitky.cz/) je server [Open Rent](https://www.openrent.co.uk/). Občas se tam nějaká realitka nebo spravující firma objeví, ale ani tak se jim neplatí žádná provize a poplatek serveru hradí zadavatel inzerátů. Dá se komunikovat a rezervovat termíny přímo přes web a když majitel dlouho neodpovídá, umějí ho i nějak pošťouchnout. Dá se přes ně i platit, ale to jsme nezkoušeli. Nabídka je tam dost velká, nebo alespoň pro nás byla. Ale věřím, že i pro ostatní - jednou jsem v zadávácích kritériích přehlédl změnu měsíčního nájmu na týdenní a počet nabízených bytů se nezměnil, možná dokonce zvedl. Ale na bydlení za £4500 si ještě chvíli počkáme ;-) Zajímavou funkcí je ještě prohledávání perimetru ne podle vzdálenosti, ale podle dostupnosti veřejnou dopravou (zdravím kamaráda Aleše, který si něco podobného programoval sám).Další služby, které už si ale něco účtují jsou [Zoopla](https://www.zoopla.co.uk/) nebo [Rightmove](https://www.rightmove.co.uk).
+
+Několik únorových večerů jsem tak strávil komunikací a plánováním. Plán zněl jasně - na čtvrtek, pátek a sobotu domluvit co nejvíc prohlídek a odletět s podepsanou smlouvou. Kolegové docela strašili, že většina nabídek je za den pryč, ale tak tragické to nebylo. Dařilo se domluvit prohlídky týden i dva dopředu, pár jich odpadlo, ale zase se objevily další. Obecně pronajímatelé spíše odpovídali a byli velmi vstřícní, pouze jeden požadoval na kauci nějakou nesmyslnou částku typu £5000, protože nemáme žádnou referenci z bydlení v UK. Prahu jsme tak opouštěli s poměrně jasnou představou o nabídkách a 15 prohlídkami na 3 dny.
+
+## Čtvrtek - Let the Party Begin
+Cílem dne bylo se rozkoukat a zjistit, jak vlastně vypadá takový běžný pronajímaný byt v Londýně. První prohlídka byla poblíž stanice Archway, u parku s hrobem Karla Marxe (to jsem se dozvěděli až potom, takže jsem se na něj nepodívali). Byt hezký, ale malý. Majitelka sympatická. A takhle to šlo vlastně pořád :-) Pohybovali jsem se na severu Londýna, v oblasti [N19](https://goo.gl/maps/iFyrgbzRh1H2). Mnohem víc než u nás, je tu totiž určující postcode; je to indetifikátor v podstatě konkrétní budovy. A jeho první písmeno určuje světovou stranu. Číslo se vzdáleností od centra moc nekoreluje, je to asi nějaký relikt postupného dělení a číslování. Během dne jsme se postupně přesouvali víc a víc do centra, protože večer mě čekal podpis smlouvy ve Snyku. Na jednom místě nám vůbec neotevřeli a na telefon nikdo nereagoval, na dalším nás pak čekal nefalšovaný Londýnský panelák. Po podpisu smlouvy a prohlídce nové kanceláře jsme pak ještě zkoukli krásný, velký, drahý a o centra pekelně vzdálený byt se dvěma koupelnami. Za odměnu jsme pak ještě zašli na pivo s kamarády Bárou a Tomem.
+
+## Pátek - River of London
+Po relativně klidném a rozkoukávacím čtvrtku nás teď čekal trochu hektičtější den s více přesuny. Hned ráno jsem překročili Temži a šli prohlížet novostavby v oblasti [Rotherhithe](https://goo.gl/maps/xA6tjRdpwfA2). To bylo vůbec zvláštní místo - ceny byly oproti ostatním částem tak o 15-20% nižší, byty větší, světlejší, s přímým spojením do centra; buď to tam je každé jaro zatopené nebo tam nedávno řádil nějaký Jack Rozparovač nebo jsme prostě jen našli nějaký opomenutý super deal. Ani prohlídky neodhalily nic podezřelého - jeden byt měl krásnou terasu, další zase pracovní kout. Kromě divného Maďara i všichni landlordi vypadali OK. Při večeři a sbírání londýnských tipů s kolegou Kylem a jeho manželkou jsme tak říkali, že z dnešních prohlídek bychom si už vybrat uměli a ani by to moc nebolelo.
+
+## Sobota - Final Countdown
+Vstávat o víkendu dřív než do práce nepotěší, ale pomohla vidina, že už to je poslední prohlídkový den a bude klid. Navíc jsme si na dnešek nechali to nejlepší, takže pevně věříme, že naše úsilí bude odměněno. Hned ráno nás tak vítá Dan v typické londýnské uličce lemované platany a provádí nás sympatickým podkrovním bytem s krbem a zahrádkou. Rázem se s velkým náskokem dostává do vedení. Některé z nás jsou nadšeny tak moc, že chtějí na místě podepsat smlouvu a zrušit všechny ostatní prohlídky. Rozumnější sekce ale nechce být neslušná a navíc je dobré mít něco v záloze. Trochu se to vyplácí, protože potkáváme ještě druhý a třetí nejlepší byt. Je to tedy vykoupeno dvěma prohlídkami, kde po prvních 10 vteřinách víte, že byste raději přespávali ve stanici metra, ale musíte přetrpět dalších 10 minut, protože nechcete být nezdvořilí. Taky jsem konečně pochopil slova kolegyně o tom, že na jedné straně ulice Green Lanes je to víc _family and calm_ a na druhé víc _busy_ (což znamenalo hezký a klidný vs bordel a auta). Poslední zkouknutý byt byl blízko prvního, takže jsme vlastně už cestou od něj volali Danovi, že to rozhodně berem. Napoprvé jsme se nedovolali, takže jsme si užili chvilku stresu, že nás nebude chtít nebo nás někdo předběhl, ale po chvíli Dan zavolal zpátky, že je rád, že jsme se mu líbili a že nám po víkendu pošle smlouvu.
+
+![výhled z okna](/stapleton_hall_rd.jpg)
+_Tahkle to u nás vypadá teď, prvního července, při pohledu z okna._
+
+## Co bylo dál
+Smlouvu stačilo podepsat, naskenovat a poslat zpět. Rozhodně se hodilo, že už jsem měl podepsanou pracovní smlouvu - ta posloužila jako dostatečný doklad solventnosti. Zajímavé je britské placení kauce - zálohu na nájem dáte majiteli, ten má ale povinnost složit ji do úschovy certifikované organizace, která mu dá potvrzení, které vám přepošle. Pokud by to neudělal, můžete ho popotahovat po soudech. Přijde mi to jako lepší řešení, hlavně při vzpomínkách na slova jednoho známého, že mu ještě nikdy kauci v plné výši nevrátili.
+
+Cíl byl tedy splněn, po prohlídkovém maratonu máme skutečně kde bydlet. Máme dvě místnosti a zavíratelnou kuchyň, platíme £1450 měsíčně, do práce to trvá 30 minut vlakem a 25 na kole, za rohem je [Finsbury Park](https://en.wikipedia.org/wiki/Finsbury_Park) a na Stansted i Luton to je něco kolem hodinky vlakem, resp. autobusem. Jako bonus máme ještě sdílenou zahrádku a na ní kůlnu na kola.
