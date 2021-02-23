@@ -37,3 +37,5 @@ Whether I am enjoying our discussion is more tricky. The most important part is 
 
 ## Let's improve our tech interviews
 I am heavily convinced a lot of people are passing bad interview experience to others. Because “I had to deal with that, so they have to do it too” approach. Or because they simply don’t know how to do it differently. I am guilty of doing this too. But I have decided to stop. I am stepping down from a superior interviewer position and model the discussion as we would be colleagues already. Since I don't want to make my colleagues feel uncomfortable, there is no reason I should treat candidates differently. Because they can turn into colleagues easily.
+
+_Thanks for reading. Do you have any questions or errors to point out? Or just wanna chat? Let me know on [Twitter](https://twitter.com/MilaVot/status/1364246323277557760). Or add a comment on [Hacker News](https://news.ycombinator.com/item?id=26238905)._
